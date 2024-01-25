@@ -12,10 +12,6 @@ cd CVnets/FoodProject
 pip install -r requirements.txt
 ```
 
-## Model Zoo
-
-For the test results and model parameter files of the model proposed in this paper, please refer to [Model Zoo](README-model-zoo.md).
-
 ## Getting Started
 
 ```cmd
